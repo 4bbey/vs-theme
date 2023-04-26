@@ -1,0 +1,21 @@
+{
+  "name": "abbey-theme",
+  "displayName": "abbey theme",
+  "description": "abbey vscode theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "abbey theme ",
+        "uiTheme": "vs-dark",
+        "path": "./themes/abbey theme -color-theme.json"
+      }
+    ]
+  }
+}
